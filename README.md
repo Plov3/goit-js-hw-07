@@ -1,3 +1,3 @@
-# goit-markup-hw-08
-Home work 8
-https://plov3.github.io/goit-markup-hw-08/
+# goit-js-hw-07
+
+Home work 7 https://plov3.github.io/goit-js-hw-07/
